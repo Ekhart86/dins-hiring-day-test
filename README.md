@@ -23,3 +23,5 @@ Test execution takes place in parallel in two threads.
 
 After completing these steps, a server with an Allure test report will be started.
 
+![DINS](https://user-images.githubusercontent.com/25115868/87553099-3cd50980-c6bb-11ea-9160-10bf824d5e7a.PNG)
+
