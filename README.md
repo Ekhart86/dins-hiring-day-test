@@ -8,7 +8,7 @@ Requirements for Running Tests:
 Procedure to complete:
 
 
-1. Download project
+1. Download project: git clone https://github.com/Ekhart86/dins-hiring-day-test.git
 
 
 2. Go to the folder with the downloaded project
