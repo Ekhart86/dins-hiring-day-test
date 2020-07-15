@@ -1,0 +1,20 @@
+<suite name="DINS Hiring Day tests" thread-count="2" parallel="tests">
+    <test name="Tests Retrofit">
+        <classes>
+            <class name="RetrofitTest">
+                <methods name="filteringByQueryParamUserId">
+                    <parameter name="userId" value="5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Tests RestAssured">
+        <classes>
+            <class name="RestAssuredTest">
+                <methods name="filteringByQueryParamUserId">
+                    <parameter name="userId" value="5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
